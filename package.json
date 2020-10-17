@@ -1,0 +1,8 @@
+{
+"name": "BetaDroid",
+"version": "1.0.0",
+"description": "Test Bot for the upcoming project",
+"main": "bot.js",
+"author": "TwG Studio",
+"dependencies": {}
+}
